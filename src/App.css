@@ -1,0 +1,43 @@
+/* src/App.css */
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.error-text {
+  text-align: center;
+}
+
+.input-group, .filter-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+select {
+  width: 100%;
+  height: 100px;
+}
+
+.response {
+  margin-top: 20px;
+}

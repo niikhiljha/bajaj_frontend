@@ -1,0 +1,27 @@
+/* src/components/InputForm.css */
+.input-form {
+    margin: 20px 0;
+  }
+  
+  .json-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-text {
+    color: red;
+  }
+  
